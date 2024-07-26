@@ -1,0 +1,173 @@
+gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,diabetes
+Female,80,0,1,never,25.19,6.6,140,0
+Female,54,0,0,No Info,27.32,6.6,80,0
+Male,28,0,0,never,27.32,5.7,158,0
+Female,36,0,0,current,23.45,5,155,0
+Male,76,1,1,current,20.14,4.8,155,0
+female,20,0,0,never,27.32,6.6,85,0
+Female,,0,,never,19.31,6.5,200,1
+Female,,0,,never,19.31,6.5,200,1
+Female,79,0,0,No Info,23.86,5.7,85,0
+Male,42,0,0,never,33.64,4.8,145,0
+Female,32,0,0,never,27.32,5,100,0
+Female,53,0,0,never,27.32,6.1,85,0
+Female,54,0,0,former,54.7,6,100,0
+Female,78,0,0,former,36.05,5,130,0
+Female,67,0,0,never,25.69,5.8,200,0
+Female,54,0,0,former,54.7,6,100,0
+Female,78,0,0,former,36.05,5,130,0
+Female,67,0,0,never,25.69,5.8,200,0
+Female,76,0,0,No Info,27.32,5,160,0
+male,,,0,,27.32,6.6,126,0
+male,15,0,0,never,30.36,6.1,200,0
+Female,42,0,0,never,24.48,5.7,158,0
+Female,42,0,0,No Info,27.32,5.7,80,0
+Male,37,0,0,ever,25.72,3.5,159,0
+Female,67,0,0,never,25.69,5.8,200,0
+male,5,0,0,No Info,18.8,6.2,85,0
+Female,69,0,0,never,21.24,4.8,85,0
+female,72,0,1,former,27.94,6.5,130,0
+Female,4,0,0,No Info,13.99,4,140,0
+male,30,0,0,never,33.76,6.1,126,0
+Male,67,0,1,,27.32,6.5,200,1
+Male,40,0,0,former,27.85,5.8,80,0
+F,,1,0,never,26.47,4,158,0
+Male,43,0,0,never,26.08,6.1,155,0
+Female,53,0,0,No Info,31.75,4,200,0
+M,50,0,0,No Info,25.15,4,145,0
+Female,41,0,0,current,22.01,6.2,126,0
+Female,20,0,0,never,22.19,3.5,100,0
+Female,76,0,0,never,23.55,5,85,0
+M,5,0,0,No Info,15.1,5.8,85,0
+Female,15,0,0,No Info,21.76,4.5,130,0
+Female,26,0,0,never,21.22,6.6,200,0
+F,50,1,0,,27.32,5.7,260,1
+Female,34,0,0,never,56.43,6.2,200,0
+Male,73,0,0,former,25.91,9,160,1
+Male,5,0,0,No Info,27.32,6.6,130,0
+Female,77,1,1,never,32.02,5,159,0
+Female,66,0,0,No Info,29.3,4.8,159,0
+Female,67,0,0,No Info,27.32,3.5,160,0
+Female,,,0,never,24.93,6.1,100,0
+Female,29,0,0,,19.95,5,90,0
+Female,60,0,0,never,18.03,4,159,0
+Female,38,0,0,never,28.27,6.2,155,0
+Female,3,0,0,No Info,19.27,6.5,100,0
+Male,57,0,0,never,27.32,6.1,155,0
+Female,26,0,0,No Info,27.32,4,200,0
+Female,74,0,0,No Info,28.12,5,100,0
+Female,53,0,0,former,27.32,7,159,1
+Female,45,1,0,never,23.05,4.8,130,0
+Male,50,0,0,former,37.16,9,159,1
+Male,30,0,0,No Info,27.32,6.6,140,0
+Female,19,0,0,never,23.35,3.5,155,0
+Male,46,0,0,No Info,24.41,5,140,0
+Female,67,0,0,never,63.48,8.8,155,1
+Male,44,1,0,current,27.86,6.6,145,0
+Female,21,0,0,not current,26.1,5.8,140,0
+Female,30,0,0,current,27.32,6.5,158,0
+Female,59,0,0,former,27.32,6,159,0
+Female,27,0,0,not current,30.22,5.7,100,0
+Female,59,0,1,ever,23.11,6.5,200,0
+Female,19,0,0,not current,27.32,5.7,145,0
+Female,13,0,0,No Info,28.16,5,90,0
+Male,56,0,0,never,26.78,4.8,200,0
+Male,2,0,0,No Info,23.04,5.7,160,0
+Male,7,0,0,No Info,15.94,5.8,158,0
+Male,3,0,0,No Info,15.8,6.2,90,0
+Female,30,0,0,never,27.01,6.2,145,0
+Male,43,0,0,not current,27.32,3.5,126,0
+Female,76,0,0,never,22.19,6.6,158,0
+Female,41,0,0,never,27.45,5.7,130,0
+Female,11,0,0,No Info,17.98,6.5,159,0
+Female,26,0,0,never,26.45,5.7,158,0
+Male,34,0,0,never,31.16,5.8,90,0
+Male,80,0,0,former,24.42,4,160,0
+Female,37,0,0,No Info,30.5,5.7,159,0
+Male,57,0,0,No Info,27.32,8.2,126,1
+Female,53,0,0,former,26.37,4.5,200,0
+Male,54,0,0,never,31.86,6.6,145,0
+Female,37,0,0,No Info,21.25,6.1,200,0
+Female,56,0,0,never,30.95,6.5,145,0
+Male,79,0,0,former,31.19,5.8,155,0
+Female,36,0,0,current,32.27,6.2,220,1
+Female,38,0,0,ever,22.42,6,85,0
+Female,6,0,0,No Info,16.39,6.6,200,0
+Female,42,0,0,never,17.46,6.2,155,0
+Female,44,0,0,never,37.35,5.7,145,0
+Male,54,0,0,former,32.85,5,160,0
+Male,38,0,0,never,55.61,6.5,130,0
+Female,60,0,0,never,27.32,7.5,300,1
+Male,19,0,0,never,27.32,6.1,80,0
+Female,67,0,0,never,27.32,6.2,159,1
+Male,11,0,0,No Info,27.32,6.1,90,0
+Female,30,0,0,No Info,50.13,6,100,0
+Male,29,0,0,current,27.32,4.8,158,0
+Male,38,0,0,never,27.32,6,158,0
+Female,74,0,0,former,27.32,6.6,85,0
+Male,27,0,0,No Info,27.32,6.2,90,0
+Female,55,0,0,ever,18.6,6,160,0
+Female,80,1,0,never,27.32,6.8,280,1
+Female,57,0,0,never,24.18,5.8,130,0
+Female,80,0,0,No Info,27.32,4.8,80,0
+Female,80,0,0,never,37.26,4,140,0
+Male,40,0,0,No Info,27.32,4.8,200,0
+Female,9,0,0,No Info,19.39,6,130,0
+Female,50,0,0,No Info,31.21,6.2,130,0
+Female,62,0,0,never,21.12,5,126,0
+Male,37,0,0,No Info,27.14,3.5,90,0
+Female,47,0,0,never,20.6,4,145,0
+Female,55,1,0,never,34.2,5.7,140,0
+Male,28,0,0,never,27.63,6.2,130,0
+Female,66,0,0,not current,20.3,6.1,160,0
+Female,43,0,0,current,18.67,6.2,85,0
+Female,12,0,0,No Info,20.9,3.5,158,0
+Male,68,1,1,current,27.32,5,126,0
+Female,36,0,0,No Info,27.32,3.5,160,0
+Male,27,0,0,No Info,20.41,6.6,159,0
+Female,5,0,0,never,16.76,5.8,160,0
+Male,75,0,0,former,27.32,6.1,100,0
+Male,7,0,0,No Info,15.06,6.5,130,0
+Female,77,0,0,never,31.7,6.5,280,1
+Male,79,1,0,No Info,28.73,6.6,160,0
+Female,79,0,0,never,25.18,5,130,0
+Female,22,0,0,never,25.77,4,145,0
+Male,58,0,0,former,36.53,5.8,160,0
+Male,11,0,0,No Info,27.59,6.6,100,0
+Male,40,0,0,No Info,27.32,6.1,158,0
+Female,79,0,0,No Info,27.32,3.5,200,0
+Female,28,0,0,not current,26.79,5.8,200,0
+Male,18,0,0,No Info,35.55,5,200,0
+Male,80,0,0,never,22.06,9,155,1
+Female,47,0,0,never,36.49,7.5,155,1
+Female,24,0,0,current,25.15,6.1,155,0
+Female,42,0,0,not current,27.8,6,85,0
+Male,18,0,0,never,23.76,4.8,160,0
+Female,80,1,0,never,44.06,6.5,160,0
+Female,34,0,0,never,27.32,6,160,0
+Female,80,0,0,former,21.97,7,300,1
+Male,38,0,0,No Info,29.4,5,90,0
+Female,80,0,0,never,20.16,6.5,130,0
+Female,80,0,0,No Info,27.32,6,200,0
+Male,53,0,0,current,30.8,6.6,280,1
+Male,34,0,0,No Info,24,5,85,0
+Female,17,0,0,No Info,22.95,6.5,90,0
+Female,29,0,0,No Info,33.22,3.5,159,0
+Male,55,0,0,current,27.32,6,80,0
+Female,12,0,0,No Info,27.93,5.7,160,0
+Female,29,0,0,never,29.6,5.7,140,0
+Female,25,0,0,No Info,27.32,5.8,90,0
+Female,67,0,0,never,25.15,5.8,145,0
+Female,54,0,0,ever,26.72,6.1,158,0
+Female,33,0,0,never,41.24,4,160,0
+Female,68,0,0,former,34.87,5.8,100,0
+Female,38,0,0,No Info,23.96,6.1,145,0
+Female,62,0,0,No Info,36.27,6.5,200,0
+Female,57,0,0,former,29.06,6.5,130,0
+Male,59,0,1,ever,30.85,5,126,0
+Male,16,0,0,never,17.61,6.5,158,0
+Female,21,0,0,No Info,27.7,3.5,159,0
+Female,15,0,0,never,19.21,4.5,130,0
+Female,33,0,0,No Info,22.34,5.7,100,0
+Female,80,0,1,never,29.59,5.8,158,0
+Female,46,0,0,former,35.44,3.5,140,0
